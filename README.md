@@ -1,2 +1,3 @@
 # MoodHub
-Een cms voor ons school project. Door:
+MoodHub is een cms voor ons project op school.
+
