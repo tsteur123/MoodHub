@@ -1,0 +1,11 @@
+.codeImg {
+    width: 100%
+}
+nav {
+    text-align: center;
+    margin: 0 0 0 0;
+}
+nav ul li{
+  width: 25%;
+  background: linear-gradient(#9FB3B5, #E3E9EA, #7c9799);
+}
